@@ -1,4 +1,4 @@
--- Data cleaning
+-- Data cleaning (Alex the Analyst data cleaning project on YouTube)
 
 SELECT * 
 FROM layoffs;
